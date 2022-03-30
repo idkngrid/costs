@@ -1,0 +1,31 @@
+.navbar {
+    background-color: #2E2E40;
+    padding: .5rem 2rem;
+}
+
+.nav_container {
+    max-width: 75rem;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    width: 50%;
+}
+
+.navbar_list {
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+.navbar_items {
+    color: #F2F2F2;
+    text-decoration: none;
+    margin-right: 1rem;
+}
+
+.navbar_items:hover {
+    color: #FFBB33;
+}

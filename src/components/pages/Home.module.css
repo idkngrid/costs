@@ -1,0 +1,32 @@
+.home_container {
+    max-width: 75rem;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+    height: 75%;
+}
+
+.home_container h1 {
+    font-size: 2.5rem;
+}
+
+.home_container h1 span {
+    color: #FFBB33;
+    padding: 0 .2em;
+}
+
+.home_container p {
+    margin-bottom: 1.5rem;
+    color: #7b7b7b;
+}
+
+.home_img {
+    width: 35rem;
+    margin: 2rem auto;
+}
+
+@media (max-width: 600px) {
+    .home_img {
+        width: 25rem;
+    }
+}

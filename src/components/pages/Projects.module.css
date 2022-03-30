@@ -1,0 +1,17 @@
+.projects_container {
+    max-width: 75rem;
+    margin: 2rem auto;
+    padding: 0 2rem;
+}
+
+.title_container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+}
+
+.card_container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
