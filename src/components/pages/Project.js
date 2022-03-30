@@ -32,6 +32,7 @@ export function Project() {
                     <div>
                         <h1>Projeto: {project.name}</h1>
                         <button>Editar Projeto</button>
+                        <p>teste</p>
                     </div>
                 </div>
                 
