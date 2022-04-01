@@ -1,19 +1,8 @@
 {
   "projects": [
     {
-      "name": "alalal",
-      "budget": "111111",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
-      "name": "teste",
-      "budget": "10",
+      "name": "mudar animação da home",
+      "budget": "0",
       "category": {
         "id": "1",
         "name": "Infra"
@@ -24,7 +13,7 @@
     },
     {
       "name": "tets1",
-      "budget": "1119299",
+      "budget": "11192",
       "category": {
         "id": "3",
         "name": "Design"
@@ -34,7 +23,7 @@
       "id": 3
     },
     {
-      "name": "ssss",
+      "name": "ingrid",
       "budget": "111",
       "category": {
         "id": "4",
